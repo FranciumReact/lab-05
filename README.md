@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Harsh Brar`
+- **CCID:** `hsb2`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Claude
 
 ## Verbal Collaboration
 
